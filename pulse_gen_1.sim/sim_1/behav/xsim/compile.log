@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Fpga_verilog/pulse_gen_1/pulse_gen_1.srcs/sources_1/new/pulse_gen1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pulse_gen1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Fpga_verilog/pulse_gen_1/pulse_gen_1.srcs/sim_1/new/pulse_gen1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tpulse_gen1_tb
